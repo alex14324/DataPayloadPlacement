@@ -28,4 +28,4 @@ To begin exploring data payload placements, clone this repository and review the
 
   Contact
 
-For questions or further discussion, please reach out to your-info@pentesterclub.com or open an issue on this repository.
+For questions or further discussion, please reach out to info@pentesterclub.com or open an issue on this repository.
